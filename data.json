@@ -1,0 +1,55 @@
+{
+    "name": "Nihal Puram",
+    "email": "puramnihal@gmail.com",
+    "subtitles": [
+        "Flutter Developer",
+        "Technical Writer",
+        "Deep Learning Enthusiast"
+    ],
+    "blackWhitePhotoURL": "https://drive.google.com/uc?export=view&id=1np1Or8kvpEmH5ghkFN5GJGqU8VAQRUCH",
+    "coloredPhotoURL": "https://drive.google.com/uc?export=view&id=1wE4FRqC9bRrzOqS64b48--ykLK1yklTJ",
+    "socialLinks": [
+        {
+            "platform": "facebook",
+            "url": "https://facebook.com/puram1"
+        },
+        {
+            "platform": "instagram",
+            "url": "https://instagram.com/realnihal16"
+        },
+        {
+            "platform": "twitter",
+            "url": "https://twitter.com/puramnihal"
+        },
+        {
+            "platform": "linkedin",
+            "url": "https://linkedin.com/in/puramnihal"
+        },
+        {
+            "platform": "github",
+            "url": "https://github.com/realnihal"
+        },
+        {
+            "platform": "medium",
+            "url": "https://medium.com/@nihalpuram"
+        }
+    ],
+    
+    "hireMe": {
+        "whatsapp": "918897127106"
+    },
+    "contact": [
+        {
+            "param": "address",
+            "value": "Hyderabad, India"
+        },
+        {
+            "param": "phone",
+            "value": "+91 8897127106"
+        },
+        {
+            "param": "email",
+            "value": "puramnihal@gmail.com"
+        }
+    ]
+}

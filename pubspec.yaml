@@ -39,6 +39,7 @@ dependencies:
 
   # cache
   shared_preferences: ^2.0.6
+  firebase_core: ^1.23.0
 
 
 dev_dependencies:
